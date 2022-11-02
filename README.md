@@ -1,5 +1,5 @@
 # peer-graded-assignment02
-Peer-graded Assignment: Create and Share Your Jupyter Notebook
+Peer-graded Assignment: Create and Share Your Jupyter Notebook<br>
 Thank you for grading my assignment!
 
 This jupyter notebook showcases the following:
