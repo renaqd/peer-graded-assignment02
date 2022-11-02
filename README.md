@@ -5,8 +5,8 @@ Thank you for grading my assignment!
 
 This jupyter notebook showcases the following:
 
-  simple math computation with addition operator <br>
-  Bullet and numbered lists <br>
-  header formatting <br>
-  block code <br>
-  links
+  code: simple math computation with addition operator <br>
+  markdown: Bullet and numbered lists <br>
+  markdown: header formatting <br>
+  markdown: block code <br>
+  markdown: links
