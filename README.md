@@ -1,6 +1,6 @@
 # peer-graded-assignment02
 
-<h>Introduction</h>
+##Introduction
 Peer-graded Assignment: Create and Share Your Jupyter Notebook<br>
 Thank you for grading my assignment!
 
